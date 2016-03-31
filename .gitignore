@@ -1,2 +1,3 @@
 #Test comment
 *.sublime*
+/tests
